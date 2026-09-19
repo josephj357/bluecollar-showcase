@@ -36,4 +36,4 @@ Self-hosted on OVH LXC containers. App + API on CT 106. Admin portal with ops ag
 
 ## Pricing
 
-Starter $49 · Growth $149 · Pro $299
+Starter $189 · Growth $349 · Pro $599
