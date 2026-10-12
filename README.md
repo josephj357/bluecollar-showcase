@@ -2,6 +2,10 @@
 
 AI agent SaaS platform built for trades businesses — HVAC, plumbing, electrical — that replaces a front office with seven specialized AI agents operating in real time.
 
+[![Watch the BlueCollar launch video](media/poster.jpg)](media/bluecollar-launch-16x9.mp4)
+
+<sub>▶ Launch video: [landscape 16:9 · 22s](media/bluecollar-launch-16x9.mp4) · [vertical 9:16 for mobile · 22s](media/bluecollar-launch-9x16.mp4)</sub>
+
 **Live:** https://bluecollarapp.ai | **Admin Portal:** https://admin.bluecollarapp.ai
 
 ---
@@ -37,3 +41,12 @@ Self-hosted on OVH LXC containers. App + API on CT 106. Admin portal with ops ag
 ## Pricing
 
 Starter $189 · Growth $349 · Pro $599
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![bluecollarapp.ai](media/screenshots/01-hero.jpg)<br><sub>bluecollarapp.ai</sub> | ![Every call, job and dollar in one place, with the agent feed](media/screenshots/02-app.jpg)<br><sub>Every call, job and dollar in one place, with the agent feed</sub> |
+| ![The AI receptionist books, quotes and texts the lead back](media/screenshots/03-receptionist.jpg)<br><sub>The AI receptionist books, quotes and texts the lead back</sub> | ![What it does, and what it won't: the guardrails, stated up front](media/screenshots/04-scope.jpg)<br><sub>What it does, and what it won't: the guardrails, stated up front</sub> |
