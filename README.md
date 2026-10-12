@@ -2,9 +2,9 @@
 
 AI agent SaaS platform built for trades businesses — HVAC, plumbing, electrical — that replaces a front office with seven specialized AI agents operating in real time.
 
-[![Watch the BlueCollar launch video](media/poster.jpg)](media/bluecollar-launch-16x9.mp4)
+https://github.com/user-attachments/assets/22b85f61-4b3e-45fe-b9ff-f60194f3e3d8
 
-<sub>▶ Launch video: [landscape 16:9 · 22s](media/bluecollar-launch-16x9.mp4) · [vertical 9:16 for mobile · 22s](media/bluecollar-launch-9x16.mp4)</sub>
+<sub>▶ 22s launch video · [vertical 9:16 cut for mobile](media/bluecollar-launch-9x16.mp4) · [download landscape](media/bluecollar-launch-16x9.mp4)</sub>
 
 **Live:** https://bluecollarapp.ai | **Admin Portal:** https://admin.bluecollarapp.ai
 
